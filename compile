@@ -1,0 +1,4 @@
+#!/bin/bash
+pip install requests dnslib Flask
+pip install --upgrade cryptography
+echo "Compile your project here"
